@@ -1,0 +1,56 @@
+/*
+    Document   : pisit
+    Created on : Dec 14, 2013, 9:53:14 AM
+    Author     : CnPisit
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+.main-container
+{
+	margin-bottom: 25px;
+	margin-top: 25px;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+.logo img
+{
+	width: 250px;
+	height: 150px
+}
+li.date
+{
+	float: right;
+}
+
+img.group-image-icon
+{
+	width: 70px;
+	height: 70px;
+
+}
+
+img.group-image-icon
+{
+	float: left;
+}/*
+img.group-image-icon p
+{
+	float: right;
+}*/
+footer p
+{
+	align: center
+}
+.body-right form
+{
+	margin-top: 50px
+}
+.footer ul
+{
+	float: left;
+	background-color: black;
+	color: #ffffff;
+}
+
